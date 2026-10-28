@@ -1,0 +1,201 @@
+﻿task_id,source_message,company,person,location,date,money,entity_count,no_target_entities
+NER-0001,"The Pioneer Field Services team in Boston expects delivery on 2027-02-18 and a balance of £1,250.",Pioneer Field Services,,Boston,2027-02-18,"£1,250",4,no
+NER-0002,"Grace Kim scheduled a review with Northstar Freight Ltd for April 8, 2027; the budget is ₦2,400,000.",Northstar Freight Ltd,Grace Kim,,"April 8, 2027","₦2,400,000",4,no
+NER-0003,"An invoice for USD 890 was issued to Greenbriar Manufacturing, attention Noah Ibrahim.",Greenbriar Manufacturing,Noah Ibrahim,,,USD 890,3,no
+NER-0004,Please do not release payment until the documents are complete.,,,,,,0,yes
+NER-0005,The event will be scheduled after the planning call.,,,,,,0,yes
+NER-0006,Can someone confirm whether the office will be open?,,,,,,0,yes
+NER-0007,Tara Wilson at Nimbuspoint Systems confirmed that the USD 890 transfer will clear by 7 December 2026.,Nimbuspoint Systems,Tara Wilson,,7 December 2026,USD 890,4,no
+NER-0008,"Hassan Adeyemi at Maplecrest Advisory confirmed that the €18,700 transfer will clear by November 12, 2026.",Maplecrest Advisory,Hassan Adeyemi,,"November 12, 2026","€18,700",4,no
+NER-0009,We need to know who owns the renewal process.,,,,,,0,yes
+NER-0010,"Oakridge Textiles asked Chloe Bennett to visit the Nairobi office on March 5, 2027.",Oakridge Textiles,Chloe Bennett,Nairobi,"March 5, 2027",,4,no
+NER-0011,"Clearwater Procurement plans to remit USD 6,800 to its Dallas office after February 3, 2027.",Clearwater Procurement,,Dallas,"February 3, 2027","USD 6,800",4,no
+NER-0012,"We received a ₦950,000 quote from HarborPeak Logistics for work in Phoenix.",HarborPeak Logistics,,Phoenix,,"₦950,000",3,no
+NER-0013,"Riverton Partners plans to remit USD 6,800 to its Port Harcourt office after February 3, 2027.",Riverton Partners,,Port Harcourt,"February 3, 2027","USD 6,800",4,no
+NER-0014,"We received a £1,250 quote from Pioneer Field Services for work in Boston.",Pioneer Field Services,,Boston,,"£1,250",3,no
+NER-0015,Grace Kim met with Northstar Freight Ltd in Denver on 2026-12-01.,Northstar Freight Ltd,Grace Kim,Denver,2026-12-01,,4,no
+NER-0016,Fatima Bello met with FableWorks Studio in Seattle on 2026-12-01.,FableWorks Studio,Fatima Bello,Seattle,2026-12-01,,4,no
+NER-0017,"Brightfield Energy plans to remit ₦2,400,000 to its Chicago office after April 8, 2027.",Brightfield Energy,,Chicago,"April 8, 2027","₦2,400,000",4,no
+NER-0018,We still need the signed approval form from the department.,,,,,,0,yes
+NER-0019,"Quartzline Retail and Sophie Grant agreed to complete the inspection in Birmingham by January 22, 2027.",Quartzline Retail,Sophie Grant,Birmingham,"January 22, 2027",,4,no
+NER-0020,"Please send the $12,450 contract to Miguel Santos at Lumenpath Networks before 2026-11-28.",Lumenpath Networks,Miguel Santos,,2026-11-28,"$12,450",4,no
+NER-0021,"Silverline Packaging relocated its supplier briefing to London on October 6, 2026.",Silverline Packaging,,London,"October 6, 2026",,3,no
+NER-0022,"The Toronto branch of Lumenpath Networks paid $12,450 after speaking with Miguel Santos.",Lumenpath Networks,Miguel Santos,Toronto,,"$12,450",4,no
+NER-0023,"Fatima Bello scheduled a review with FableWorks Studio for April 8, 2027; the budget is ₦2,400,000.",FableWorks Studio,Fatima Bello,,"April 8, 2027","₦2,400,000",4,no
+NER-0024,"Northstar Freight Ltd asked Grace Kim to visit the Denver office on March 5, 2027.",Northstar Freight Ltd,Grace Kim,Denver,"March 5, 2027",,4,no
+NER-0025,Noah Ibrahim at Greenbriar Manufacturing confirmed that the USD 890 transfer will clear by 7 December 2026.,Greenbriar Manufacturing,Noah Ibrahim,,7 December 2026,USD 890,4,no
+NER-0026,"Our Birmingham site will host Quartzline Retail representatives on January 22, 2027; Sophie Grant is coordinator.",Quartzline Retail,Sophie Grant,Birmingham,"January 22, 2027",,4,no
+NER-0027,"Marina Solis at Bluehaven MedTech confirmed that the €18,700 transfer will clear by November 12, 2026.",Bluehaven MedTech,Marina Solis,,"November 12, 2026","€18,700",4,no
+NER-0028,"An invoice for USD 890 was issued to HarborPeak Logistics, attention Priya Rao.",HarborPeak Logistics,Priya Rao,,,USD 890,3,no
+NER-0029,"Our Abuja site will host Amberstone Analytics representatives on January 22, 2027; Isabel Moreno is coordinator.",Amberstone Analytics,Isabel Moreno,Abuja,"January 22, 2027",,4,no
+NER-0030,"The Manchester branch of Willowgate Foods paid $12,450 after speaking with Kwame Boateng.",Willowgate Foods,Kwame Boateng,Manchester,,"$12,450",4,no
+NER-0031,"The total was adjusted, but no amount appears in the message.",,,,,,0,yes
+NER-0032,"Redcliff Facilities plans to remit ₦2,400,000 to its Houston office after April 8, 2027.",Redcliff Facilities,,Houston,"April 8, 2027","₦2,400,000",4,no
+NER-0033,"We received a £1,250 quote from Bluehaven MedTech for work in Accra.",Bluehaven MedTech,,Accra,,"£1,250",3,no
+NER-0034,"Please send the USD 24,000 contract to Tara Wilson at Nimbuspoint Systems before 27 October 2026.",Nimbuspoint Systems,Tara Wilson,,27 October 2026,"USD 24,000",4,no
+NER-0035,"FableWorks Studio relocated its supplier briefing to Seattle on March 5, 2027.",FableWorks Studio,,Seattle,"March 5, 2027",,3,no
+NER-0036,Chloe Bennett met with Oakridge Textiles in Nairobi on 2026-12-01.,Oakridge Textiles,Chloe Bennett,Nairobi,2026-12-01,,4,no
+NER-0037,"Riverton Partners asked Ethan Carter to visit the Port Harcourt office on October 6, 2026.",Riverton Partners,Ethan Carter,Port Harcourt,"October 6, 2026",,4,no
+NER-0038,The invoice number is INV-2047 and the reference is PO-918.,,,,,,0,yes
+NER-0039,Lara Nwosu met with Brightfield Energy in Chicago on 2026-12-01.,Brightfield Energy,Lara Nwosu,Chicago,2026-12-01,,4,no
+NER-0040,"Isabel Moreno scheduled a review with Amberstone Analytics for February 3, 2027; the budget is USD 6,800.",Amberstone Analytics,Isabel Moreno,,"February 3, 2027","USD 6,800",4,no
+NER-0041,"Our Dallas site will host Clearwater Procurement representatives on January 22, 2027; Ada Mensah is coordinator.",Clearwater Procurement,Ada Mensah,Dallas,"January 22, 2027",,4,no
+NER-0042,Redcliff Facilities and Daniel Okeke agreed to complete the inspection in Houston by 2026-12-01.,Redcliff Facilities,Daniel Okeke,Houston,2026-12-01,,4,no
+NER-0043,"Ethan Carter met with Riverton Partners in Port Harcourt on January 22, 2027.",Riverton Partners,Ethan Carter,Port Harcourt,"January 22, 2027",,4,no
+NER-0044,"Amberstone Analytics asked Isabel Moreno to visit the Abuja office on October 6, 2026.",Amberstone Analytics,Isabel Moreno,Abuja,"October 6, 2026",,4,no
+NER-0045,"The CedarBridge Supplies team in Enugu expects delivery on 14 January 2027 and a balance of ₦950,000.",CedarBridge Supplies,,Enugu,14 January 2027,"₦950,000",4,no
+NER-0046,Daniel Okeke met with Redcliff Facilities in Houston on 2026-12-01.,Redcliff Facilities,Daniel Okeke,Houston,2026-12-01,,4,no
+NER-0047,"The Willowgate Foods team in Manchester expects delivery on 2027-02-18 and a balance of £1,250.",Willowgate Foods,,Manchester,2027-02-18,"£1,250",4,no
+NER-0048,"For the Dallas rollout, Ada Mensah proposed a cap of $420.50.",,Ada Mensah,Dallas,,$420.50,3,no
+NER-0049,Our Denver site will host Northstar Freight Ltd representatives on 2026-12-01; Grace Kim is coordinator.,Northstar Freight Ltd,Grace Kim,Denver,2026-12-01,,4,no
+NER-0050,"An invoice for €18,700 was issued to Lumenpath Networks, attention Miguel Santos.",Lumenpath Networks,Miguel Santos,,,"€18,700",3,no
+NER-0051,"Ada Mensah met with Clearwater Procurement in Dallas on January 22, 2027.",Clearwater Procurement,Ada Mensah,Dallas,"January 22, 2027",,4,no
+NER-0052,Omar Haddad at Everpine Holdings confirmed that the USD 890 transfer will clear by 7 December 2026.,Everpine Holdings,Omar Haddad,,7 December 2026,USD 890,4,no
+NER-0053,The purchase order from Nimbuspoint Systems names Tara Wilson as contact and totals USD 890.,Nimbuspoint Systems,Tara Wilson,,,USD 890,3,no
+NER-0054,"Sophie Grant scheduled a review with Quartzline Retail for February 3, 2027; the budget is USD 6,800.",Quartzline Retail,Sophie Grant,,"February 3, 2027","USD 6,800",4,no
+NER-0055,Henry Cho forwarded the 2026-11-28 meeting notes to Pioneer Field Services in Boston.,Pioneer Field Services,Henry Cho,Boston,2026-11-28,,4,no
+NER-0056,"Ethan Carter scheduled a review with Riverton Partners for February 3, 2027; the budget is USD 6,800.",Riverton Partners,Ethan Carter,,"February 3, 2027","USD 6,800",4,no
+NER-0057,"Lara Nwosu approved a ₦2,400,000 purchase for our Chicago location.",,Lara Nwosu,Chicago,,"₦2,400,000",3,no
+NER-0058,"Isabel Moreno met with Amberstone Analytics in Abuja on January 22, 2027.",Amberstone Analytics,Isabel Moreno,Abuja,"January 22, 2027",,4,no
+NER-0059,The purchase order from Everpine Holdings names Omar Haddad as contact and totals USD 890.,Everpine Holdings,Omar Haddad,,,USD 890,3,no
+NER-0060,Priya Rao at HarborPeak Logistics confirmed that the USD 890 transfer will clear by 7 December 2026.,HarborPeak Logistics,Priya Rao,,7 December 2026,USD 890,4,no
+NER-0061,The customer asked for a plain-language explanation of the fee.,,,,,,0,yes
+NER-0062,"For the Denver rollout, Grace Kim proposed a cap of $42,600.",,Grace Kim,Denver,,"$42,600",3,no
+NER-0063,"Ada Mensah approved a USD 6,800 purchase for our Dallas location.",,Ada Mensah,Dallas,,"USD 6,800",3,no
+NER-0064,Amina Yusuf forwarded the 27 October 2026 meeting notes to CedarBridge Supplies in Enugu.,CedarBridge Supplies,Amina Yusuf,Enugu,27 October 2026,,4,no
+NER-0065,The purchase order from Greenbriar Manufacturing names Noah Ibrahim as contact and totals USD 890.,Greenbriar Manufacturing,Noah Ibrahim,,,USD 890,3,no
+NER-0066,"Noah Ibrahim requested that Greenbriar Manufacturing update the invoice to ₦950,000.",Greenbriar Manufacturing,Noah Ibrahim,,,"₦950,000",3,no
+NER-0067,"Amina Yusuf requested that CedarBridge Supplies update the invoice to ₦950,000.",CedarBridge Supplies,Amina Yusuf,,,"₦950,000",3,no
+NER-0068,Northstar Freight Ltd and Grace Kim agreed to complete the inspection in Denver by 2026-12-01.,Northstar Freight Ltd,Grace Kim,Denver,2026-12-01,,4,no
+NER-0069,"Daniel Okeke approved a ₦2,400,000 purchase for our Houston location.",,Daniel Okeke,Houston,,"₦2,400,000",3,no
+NER-0070,"Omar Haddad requested that Everpine Holdings update the invoice to ₦950,000.",Everpine Holdings,Omar Haddad,,,"₦950,000",3,no
+NER-0071,"Daniel Okeke scheduled a review with Redcliff Facilities for April 8, 2027; the budget is ₦2,400,000.",Redcliff Facilities,Daniel Okeke,,"April 8, 2027","₦2,400,000",4,no
+NER-0072,"The Cape Town branch of Maplecrest Advisory paid $12,450 after speaking with Hassan Adeyemi.",Maplecrest Advisory,Hassan Adeyemi,Cape Town,,"$12,450",4,no
+NER-0073,"Please send the $12,450 contract to Kwame Boateng at Willowgate Foods before 2026-11-28.",Willowgate Foods,Kwame Boateng,,2026-11-28,"$12,450",4,no
+NER-0074,Please check the invoice attachment for duplicate line items.,,,,,,0,yes
+NER-0075,"Clearwater Procurement asked Ada Mensah to visit the Dallas office on October 6, 2026.",Clearwater Procurement,Ada Mensah,Dallas,"October 6, 2026",,4,no
+NER-0076,The meeting was cancelled before the invite went out.,,,,,,0,yes
+NER-0077,"Fatima Bello approved a ₦2,400,000 purchase for our Seattle location.",,Fatima Bello,Seattle,,"₦2,400,000",3,no
+NER-0078,Our Nairobi site will host Oakridge Textiles representatives on 2026-12-01; Chloe Bennett is coordinator.,Oakridge Textiles,Chloe Bennett,Nairobi,2026-12-01,,4,no
+NER-0079,Hassan Adeyemi forwarded the 2026-11-28 meeting notes to Maplecrest Advisory in Cape Town.,Maplecrest Advisory,Hassan Adeyemi,Cape Town,2026-11-28,,4,no
+NER-0080,"Chloe Bennett scheduled a review with Oakridge Textiles for April 8, 2027; the budget is ₦2,400,000.",Oakridge Textiles,Chloe Bennett,,"April 8, 2027","₦2,400,000",4,no
+NER-0081,"An invoice for €18,700 was issued to Willowgate Foods, attention Kwame Boateng.",Willowgate Foods,Kwame Boateng,,,"€18,700",3,no
+NER-0082,"Our annual budget is under review, but it has not been finalized.",,,,,,0,yes
+NER-0083,"Tara Wilson requested that Nimbuspoint Systems update the invoice to ₦950,000.",Nimbuspoint Systems,Tara Wilson,,,"₦950,000",3,no
+NER-0084,"Redcliff Facilities asked Daniel Okeke to visit the Houston office on March 5, 2027.",Redcliff Facilities,Daniel Okeke,Houston,"March 5, 2027",,4,no
+NER-0085,"The Greenbriar Manufacturing team in Austin expects delivery on 14 January 2027 and a balance of ₦950,000.",Greenbriar Manufacturing,,Austin,14 January 2027,"₦950,000",4,no
+NER-0086,"Please send the $12,450 contract to Marina Solis at Bluehaven MedTech before 2026-11-28.",Bluehaven MedTech,Marina Solis,,2026-11-28,"$12,450",4,no
+NER-0087,"Priya Rao requested that HarborPeak Logistics update the invoice to ₦950,000.",HarborPeak Logistics,Priya Rao,,,"₦950,000",3,no
+NER-0088,"Please send the USD 24,000 contract to Noah Ibrahim at Greenbriar Manufacturing before 27 October 2026.",Greenbriar Manufacturing,Noah Ibrahim,,27 October 2026,"USD 24,000",4,no
+NER-0089,"Brightfield Energy relocated its supplier briefing to Chicago on March 5, 2027.",Brightfield Energy,,Chicago,"March 5, 2027",,3,no
+NER-0090,"Redcliff Facilities relocated its supplier briefing to Houston on March 5, 2027.",Redcliff Facilities,,Houston,"March 5, 2027",,3,no
+NER-0091,"The Everpine Holdings team in Lagos expects delivery on 14 January 2027 and a balance of ₦950,000.",Everpine Holdings,,Lagos,14 January 2027,"₦950,000",4,no
+NER-0092,"For the Houston rollout, Daniel Okeke proposed a cap of $42,600.",,Daniel Okeke,Houston,,"$42,600",3,no
+NER-0093,"Please send the USD 24,000 contract to Omar Haddad at Everpine Holdings before 27 October 2026.",Everpine Holdings,Omar Haddad,,27 October 2026,"USD 24,000",4,no
+NER-0094,"The purchase order from Bluehaven MedTech names Marina Solis as contact and totals €18,700.",Bluehaven MedTech,Marina Solis,,,"€18,700",3,no
+NER-0095,Amina Yusuf at CedarBridge Supplies confirmed that the USD 890 transfer will clear by 7 December 2026.,CedarBridge Supplies,Amina Yusuf,,7 December 2026,USD 890,4,no
+NER-0096,"The Lumenpath Networks team in Toronto expects delivery on 2027-02-18 and a balance of £1,250.",Lumenpath Networks,,Toronto,2027-02-18,"£1,250",4,no
+NER-0097,"We received a ₦950,000 quote from Nimbuspoint Systems for work in Atlanta.",Nimbuspoint Systems,,Atlanta,,"₦950,000",3,no
+NER-0098,Our Seattle site will host FableWorks Studio representatives on 2026-12-01; Fatima Bello is coordinator.,FableWorks Studio,Fatima Bello,Seattle,2026-12-01,,4,no
+NER-0099,"Kwame Boateng at Willowgate Foods confirmed that the €18,700 transfer will clear by November 12, 2026.",Willowgate Foods,Kwame Boateng,,"November 12, 2026","€18,700",4,no
+NER-0100,"Please send the USD 24,000 contract to Amina Yusuf at CedarBridge Supplies before 27 October 2026.",CedarBridge Supplies,Amina Yusuf,,27 October 2026,"USD 24,000",4,no
+NER-0101,"Grace Kim approved a ₦2,400,000 purchase for our Denver location.",,Grace Kim,Denver,,"₦2,400,000",3,no
+NER-0102,"We received a £1,250 quote from Lumenpath Networks for work in Toronto.",Lumenpath Networks,,Toronto,,"£1,250",3,no
+NER-0103,"Chloe Bennett approved a ₦2,400,000 purchase for our Nairobi location.",,Chloe Bennett,Nairobi,,"₦2,400,000",3,no
+NER-0104,"The Boston branch of Pioneer Field Services paid $12,450 after speaking with Henry Cho.",Pioneer Field Services,Henry Cho,Boston,,"$12,450",4,no
+NER-0105,"Ada Mensah scheduled a review with Clearwater Procurement for February 3, 2027; the budget is USD 6,800.",Clearwater Procurement,Ada Mensah,,"February 3, 2027","USD 6,800",4,no
+NER-0106,"The purchase order from Maplecrest Advisory names Hassan Adeyemi as contact and totals €18,700.",Maplecrest Advisory,Hassan Adeyemi,,,"€18,700",3,no
+NER-0107,"The purchase order from Willowgate Foods names Kwame Boateng as contact and totals €18,700.",Willowgate Foods,Kwame Boateng,,,"€18,700",3,no
+NER-0108,"We received a £1,250 quote from Willowgate Foods for work in Manchester.",Willowgate Foods,,Manchester,,"£1,250",3,no
+NER-0109,"For the Birmingham rollout, Sophie Grant proposed a cap of $420.50.",,Sophie Grant,Birmingham,,$420.50,3,no
+NER-0110,Our Chicago site will host Brightfield Energy representatives on 2026-12-01; Lara Nwosu is coordinator.,Brightfield Energy,Lara Nwosu,Chicago,2026-12-01,,4,no
+NER-0111,The account was flagged for verification.,,,,,,0,yes
+NER-0112,"Silverline Packaging asked Elena Brooks to visit the London office on October 6, 2026.",Silverline Packaging,Elena Brooks,London,"October 6, 2026",,4,no
+NER-0113,"The Enugu branch of CedarBridge Supplies paid USD 24,000 after speaking with Amina Yusuf.",CedarBridge Supplies,Amina Yusuf,Enugu,,"USD 24,000",4,no
+NER-0114,"Oakridge Textiles relocated its supplier briefing to Nairobi on March 5, 2027.",Oakridge Textiles,,Nairobi,"March 5, 2027",,3,no
+NER-0115,"For the Nairobi rollout, Chloe Bennett proposed a cap of $42,600.",,Chloe Bennett,Nairobi,,"$42,600",3,no
+NER-0116,Miguel Santos forwarded the 2026-11-28 meeting notes to Lumenpath Networks in Toronto.,Lumenpath Networks,Miguel Santos,Toronto,2026-11-28,,4,no
+NER-0117,"Quartzline Retail plans to remit USD 6,800 to its Birmingham office after February 3, 2027.",Quartzline Retail,,Birmingham,"February 3, 2027","USD 6,800",4,no
+NER-0118,"For the Abuja rollout, Isabel Moreno proposed a cap of $420.50.",,Isabel Moreno,Abuja,,$420.50,3,no
+NER-0119,Our Houston site will host Redcliff Facilities representatives on 2026-12-01; Daniel Okeke is coordinator.,Redcliff Facilities,Daniel Okeke,Houston,2026-12-01,,4,no
+NER-0120,"An invoice for USD 890 was issued to CedarBridge Supplies, attention Amina Yusuf.",CedarBridge Supplies,Amina Yusuf,,,USD 890,3,no
+NER-0121,"The HarborPeak Logistics team in Phoenix expects delivery on 14 January 2027 and a balance of ₦950,000.",HarborPeak Logistics,,Phoenix,14 January 2027,"₦950,000",4,no
+NER-0122,"The Bluehaven MedTech team in Accra expects delivery on 2027-02-18 and a balance of £1,250.",Bluehaven MedTech,,Accra,2027-02-18,"£1,250",4,no
+NER-0123,"Please send the $12,450 contract to Hassan Adeyemi at Maplecrest Advisory before 2026-11-28.",Maplecrest Advisory,Hassan Adeyemi,,2026-11-28,"$12,450",4,no
+NER-0124,"Marina Solis requested that Bluehaven MedTech update the invoice to £1,250.",Bluehaven MedTech,Marina Solis,,,"£1,250",3,no
+NER-0125,"Sophie Grant approved a USD 6,800 purchase for our Birmingham location.",,Sophie Grant,Birmingham,,"USD 6,800",3,no
+NER-0126,"An invoice for USD 890 was issued to Nimbuspoint Systems, attention Tara Wilson.",Nimbuspoint Systems,Tara Wilson,,,USD 890,3,no
+NER-0127,Oakridge Textiles and Chloe Bennett agreed to complete the inspection in Nairobi by 2026-12-01.,Oakridge Textiles,Chloe Bennett,Nairobi,2026-12-01,,4,no
+NER-0128,"Amberstone Analytics relocated its supplier briefing to Abuja on October 6, 2026.",Amberstone Analytics,,Abuja,"October 6, 2026",,3,no
+NER-0129,"Ethan Carter approved a USD 6,800 purchase for our Port Harcourt location.",,Ethan Carter,Port Harcourt,,"USD 6,800",3,no
+NER-0130,Please upload the revised contract to the shared folder.,,,,,,0,yes
+NER-0131,"Silverline Packaging and Elena Brooks agreed to complete the inspection in London by January 22, 2027.",Silverline Packaging,Elena Brooks,London,"January 22, 2027",,4,no
+NER-0132,"Quartzline Retail relocated its supplier briefing to Birmingham on October 6, 2026.",Quartzline Retail,,Birmingham,"October 6, 2026",,3,no
+NER-0133,The branch manager wants to compare the three quotes.,,,,,,0,yes
+NER-0134,"The Nimbuspoint Systems team in Atlanta expects delivery on 14 January 2027 and a balance of ₦950,000.",Nimbuspoint Systems,,Atlanta,14 January 2027,"₦950,000",4,no
+NER-0135,"Brightfield Energy asked Lara Nwosu to visit the Chicago office on March 5, 2027.",Brightfield Energy,Lara Nwosu,Chicago,"March 5, 2027",,4,no
+NER-0136,"We received a ₦950,000 quote from CedarBridge Supplies for work in Enugu.",CedarBridge Supplies,,Enugu,,"₦950,000",3,no
+NER-0137,"An invoice for USD 890 was issued to Everpine Holdings, attention Omar Haddad.",Everpine Holdings,Omar Haddad,,,USD 890,3,no
+NER-0138,The supplier has not confirmed a delivery window.,,,,,,0,yes
+NER-0139,"FableWorks Studio asked Fatima Bello to visit the Seattle office on March 5, 2027.",FableWorks Studio,Fatima Bello,Seattle,"March 5, 2027",,4,no
+NER-0140,"An invoice for €18,700 was issued to Maplecrest Advisory, attention Hassan Adeyemi.",Maplecrest Advisory,Hassan Adeyemi,,,"€18,700",3,no
+NER-0141,Marina Solis forwarded the 2026-11-28 meeting notes to Bluehaven MedTech in Accra.,Bluehaven MedTech,Marina Solis,Accra,2026-11-28,,4,no
+NER-0142,"Amberstone Analytics and Isabel Moreno agreed to complete the inspection in Abuja by January 22, 2027.",Amberstone Analytics,Isabel Moreno,Abuja,"January 22, 2027",,4,no
+NER-0143,"The Atlanta branch of Nimbuspoint Systems paid USD 24,000 after speaking with Tara Wilson.",Nimbuspoint Systems,Tara Wilson,Atlanta,,"USD 24,000",4,no
+NER-0144,"Kwame Boateng requested that Willowgate Foods update the invoice to £1,250.",Willowgate Foods,Kwame Boateng,,,"£1,250",3,no
+NER-0145,Kwame Boateng forwarded the 2026-11-28 meeting notes to Willowgate Foods in Manchester.,Willowgate Foods,Kwame Boateng,Manchester,2026-11-28,,4,no
+NER-0146,"For the Seattle rollout, Fatima Bello proposed a cap of $42,600.",,Fatima Bello,Seattle,,"$42,600",3,no
+NER-0147,"The Lagos branch of Everpine Holdings paid USD 24,000 after speaking with Omar Haddad.",Everpine Holdings,Omar Haddad,Lagos,,"USD 24,000",4,no
+NER-0148,The purchase order from HarborPeak Logistics names Priya Rao as contact and totals USD 890.,HarborPeak Logistics,Priya Rao,,,USD 890,3,no
+NER-0149,"The Austin branch of Greenbriar Manufacturing paid USD 24,000 after speaking with Noah Ibrahim.",Greenbriar Manufacturing,Noah Ibrahim,Austin,,"USD 24,000",4,no
+NER-0150,"Northstar Freight Ltd plans to remit ₦2,400,000 to its Denver office after April 8, 2027.",Northstar Freight Ltd,,Denver,"April 8, 2027","₦2,400,000",4,no
+NER-0151,"Elena Brooks approved a USD 6,800 purchase for our London location.",,Elena Brooks,London,,"USD 6,800",3,no
+NER-0152,"Elena Brooks met with Silverline Packaging in London on January 22, 2027.",Silverline Packaging,Elena Brooks,London,"January 22, 2027",,4,no
+NER-0153,"An invoice for €18,700 was issued to Pioneer Field Services, attention Henry Cho.",Pioneer Field Services,Henry Cho,,,"€18,700",3,no
+NER-0154,"Miguel Santos at Lumenpath Networks confirmed that the €18,700 transfer will clear by November 12, 2026.",Lumenpath Networks,Miguel Santos,,"November 12, 2026","€18,700",4,no
+NER-0155,"We received a ₦950,000 quote from Everpine Holdings for work in Lagos.",Everpine Holdings,,Lagos,,"₦950,000",3,no
+NER-0156,Tara Wilson forwarded the 27 October 2026 meeting notes to Nimbuspoint Systems in Atlanta.,Nimbuspoint Systems,Tara Wilson,Atlanta,27 October 2026,,4,no
+NER-0157,"Henry Cho requested that Pioneer Field Services update the invoice to £1,250.",Pioneer Field Services,Henry Cho,,,"£1,250",3,no
+NER-0158,"An invoice for €18,700 was issued to Bluehaven MedTech, attention Marina Solis.",Bluehaven MedTech,Marina Solis,,,"€18,700",3,no
+NER-0159,"For the Chicago rollout, Lara Nwosu proposed a cap of $42,600.",,Lara Nwosu,Chicago,,"$42,600",3,no
+NER-0160,The new location has not been selected yet.,,,,,,0,yes
+NER-0161,"FableWorks Studio plans to remit ₦2,400,000 to its Seattle office after April 8, 2027.",FableWorks Studio,,Seattle,"April 8, 2027","₦2,400,000",4,no
+NER-0162,"The Phoenix branch of HarborPeak Logistics paid USD 24,000 after speaking with Priya Rao.",HarborPeak Logistics,Priya Rao,Phoenix,,"USD 24,000",4,no
+NER-0163,"Amberstone Analytics plans to remit USD 6,800 to its Abuja office after February 3, 2027.",Amberstone Analytics,,Abuja,"February 3, 2027","USD 6,800",4,no
+NER-0164,"Riverton Partners and Ethan Carter agreed to complete the inspection in Port Harcourt by January 22, 2027.",Riverton Partners,Ethan Carter,Port Harcourt,"January 22, 2027",,4,no
+NER-0165,"The Accra branch of Bluehaven MedTech paid $12,450 after speaking with Marina Solis.",Bluehaven MedTech,Marina Solis,Accra,,"$12,450",4,no
+NER-0166,FableWorks Studio and Fatima Bello agreed to complete the inspection in Seattle by 2026-12-01.,FableWorks Studio,Fatima Bello,Seattle,2026-12-01,,4,no
+NER-0167,Noah Ibrahim forwarded the 27 October 2026 meeting notes to Greenbriar Manufacturing in Austin.,Greenbriar Manufacturing,Noah Ibrahim,Austin,27 October 2026,,4,no
+NER-0168,"We received a £1,250 quote from Maplecrest Advisory for work in Cape Town.",Maplecrest Advisory,,Cape Town,,"£1,250",3,no
+NER-0169,"Clearwater Procurement and Ada Mensah agreed to complete the inspection in Dallas by January 22, 2027.",Clearwater Procurement,Ada Mensah,Dallas,"January 22, 2027",,4,no
+NER-0170,Priya Rao forwarded the 27 October 2026 meeting notes to HarborPeak Logistics in Phoenix.,HarborPeak Logistics,Priya Rao,Phoenix,27 October 2026,,4,no
+NER-0171,"Lara Nwosu scheduled a review with Brightfield Energy for April 8, 2027; the budget is ₦2,400,000.",Brightfield Energy,Lara Nwosu,,"April 8, 2027","₦2,400,000",4,no
+NER-0172,"Quartzline Retail asked Sophie Grant to visit the Birmingham office on October 6, 2026.",Quartzline Retail,Sophie Grant,Birmingham,"October 6, 2026",,4,no
+NER-0173,The purchase order from CedarBridge Supplies names Amina Yusuf as contact and totals USD 890.,CedarBridge Supplies,Amina Yusuf,,,USD 890,3,no
+NER-0174,"Our London site will host Silverline Packaging representatives on January 22, 2027; Elena Brooks is coordinator.",Silverline Packaging,Elena Brooks,London,"January 22, 2027",,4,no
+NER-0175,"Riverton Partners relocated its supplier briefing to Port Harcourt on October 6, 2026.",Riverton Partners,,Port Harcourt,"October 6, 2026",,3,no
+NER-0176,Omar Haddad forwarded the 27 October 2026 meeting notes to Everpine Holdings in Lagos.,Everpine Holdings,Omar Haddad,Lagos,27 October 2026,,4,no
+NER-0177,"We received a ₦950,000 quote from Greenbriar Manufacturing for work in Austin.",Greenbriar Manufacturing,,Austin,,"₦950,000",3,no
+NER-0178,"Elena Brooks scheduled a review with Silverline Packaging for February 3, 2027; the budget is USD 6,800.",Silverline Packaging,Elena Brooks,,"February 3, 2027","USD 6,800",4,no
+NER-0179,The draft was returned for another compliance review.,,,,,,0,yes
+NER-0180,"Our Port Harcourt site will host Riverton Partners representatives on January 22, 2027; Ethan Carter is coordinator.",Riverton Partners,Ethan Carter,Port Harcourt,"January 22, 2027",,4,no
+NER-0181,"For the Port Harcourt rollout, Ethan Carter proposed a cap of $420.50.",,Ethan Carter,Port Harcourt,,$420.50,3,no
+NER-0182,"The purchase order from Pioneer Field Services names Henry Cho as contact and totals €18,700.",Pioneer Field Services,Henry Cho,,,"€18,700",3,no
+NER-0183,"Clearwater Procurement relocated its supplier briefing to Dallas on October 6, 2026.",Clearwater Procurement,,Dallas,"October 6, 2026",,3,no
+NER-0184,"Hassan Adeyemi requested that Maplecrest Advisory update the invoice to £1,250.",Maplecrest Advisory,Hassan Adeyemi,,,"£1,250",3,no
+NER-0185,"The purchase order from Lumenpath Networks names Miguel Santos as contact and totals €18,700.",Lumenpath Networks,Miguel Santos,,,"€18,700",3,no
+NER-0186,"Oakridge Textiles plans to remit ₦2,400,000 to its Nairobi office after April 8, 2027.",Oakridge Textiles,,Nairobi,"April 8, 2027","₦2,400,000",4,no
+NER-0187,"Sophie Grant met with Quartzline Retail in Birmingham on January 22, 2027.",Quartzline Retail,Sophie Grant,Birmingham,"January 22, 2027",,4,no
+NER-0188,The deadline has been postponed without a new date.,,,,,,0,yes
+NER-0189,"For the London rollout, Elena Brooks proposed a cap of $420.50.",,Elena Brooks,London,,$420.50,3,no
+NER-0190,"Please send the $12,450 contract to Henry Cho at Pioneer Field Services before 2026-11-28.",Pioneer Field Services,Henry Cho,,2026-11-28,"$12,450",4,no
+NER-0191,A project manager will follow up once the schedule is ready.,,,,,,0,yes
+NER-0192,"Silverline Packaging plans to remit USD 6,800 to its London office after February 3, 2027.",Silverline Packaging,,London,"February 3, 2027","USD 6,800",4,no
+NER-0193,"Northstar Freight Ltd relocated its supplier briefing to Denver on March 5, 2027.",Northstar Freight Ltd,,Denver,"March 5, 2027",,3,no
+NER-0194,"Isabel Moreno approved a USD 6,800 purchase for our Abuja location.",,Isabel Moreno,Abuja,,"USD 6,800",3,no
+NER-0195,"Henry Cho at Pioneer Field Services confirmed that the €18,700 transfer will clear by November 12, 2026.",Pioneer Field Services,Henry Cho,,"November 12, 2026","€18,700",4,no
+NER-0196,Please review the attached spreadsheet before closing the request.,,,,,,0,yes
+NER-0197,"Please send the USD 24,000 contract to Priya Rao at HarborPeak Logistics before 27 October 2026.",HarborPeak Logistics,Priya Rao,,27 October 2026,"USD 24,000",4,no
+NER-0198,"Miguel Santos requested that Lumenpath Networks update the invoice to £1,250.",Lumenpath Networks,Miguel Santos,,,"£1,250",3,no
+NER-0199,"The Maplecrest Advisory team in Cape Town expects delivery on 2027-02-18 and a balance of £1,250.",Maplecrest Advisory,,Cape Town,2027-02-18,"£1,250",4,no
+NER-0200,Brightfield Energy and Lara Nwosu agreed to complete the inspection in Chicago by 2026-12-01.,Brightfield Energy,Lara Nwosu,Chicago,2026-12-01,,4,no
